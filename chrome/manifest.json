@@ -1,0 +1,10 @@
+{
+	"manifest_version": 3,
+	"name": "Miss-Info",
+	"description": "Fact checker extension that utilizes ChatGPT/OpenAssistant and a database of textbooks and .org/.gov/.edu to check info and analyze the facts on a webpage.",
+	"version": "1.0",
+	"action": {
+		"default_popup": "popout.html",
+		"default_icon": "icons/icon-48.png"
+	}
+}
